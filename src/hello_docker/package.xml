@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package>
   <name>hello_docker</name>
-  <version>0.0.0</version>
-  <description>The hello_docker package</description>
+  <version>0.0.1</version>
+  <description>The hello_docker package. Example for setting up your custom Nodes in a Docker Container</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="root@todo.todo">root</maintainer>
+  <maintainer email="anthonykolodzinski@gmail.com">Anthony Kolodzinski</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
   <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
-  <license>TODO</license>
+  <license>MIT</license>
 
 
   <!-- Url tags are optional, but mutiple are allowed, one per tag -->
