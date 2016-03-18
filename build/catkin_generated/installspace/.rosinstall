@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/ros_docker_tut/install/setup.sh

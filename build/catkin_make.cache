@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/root/ros_docker_tut/devel -DCMAKE_INSTALL_PREFIX=/root/ros_docker_tut/install -G Unix Makefiles
